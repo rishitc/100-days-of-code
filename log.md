@@ -32,8 +32,8 @@ The HackerRank and HackerEarth questions were quite interesting an I was able to
 
 - Worked on learning and getting comfortable with the syntax of Matplotlib
   - Finished the freeCodeCamp video on [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
-  - Began working on visualising the [Daily Power Generation in India (2017-2020) Dataset on Kaggle](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020?select=file.csv)
-- Finished LeetCode July Daily Challenge Questions
+  - 
+- Finished LeetCode July Daily Challenge Question [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) and [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)
 
 **Thoughts:** 
 
@@ -45,7 +45,7 @@ The HackerRank and HackerEarth questions were quite interesting an I was able to
 
 
 
-
+Began working on visualising the [Daily Power Generation in India (2017-2020) Dataset on Kaggle](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020?select=file.csv)
 
 
 
