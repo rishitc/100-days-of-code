@@ -16,7 +16,7 @@
 
 **Thoughts:** 
 
-The HackerRank and HackerEarth questions were quite interesting an I was able to solve then efficiently. The LeetCode question were a bit more challenging but I was able to figure them out
+The HackerRank and HackerEarth questions were quite engaging while quite simple in approach. I was ecstatic that I was able to solve them efficiently. However, the LeetCode challenges were a bit more demanding. In the end, I was able to figure out how to solve them.
 
 **Link(s) to work:** 
 
@@ -26,7 +26,7 @@ The HackerRank and HackerEarth questions were quite interesting an I was able to
 
 ### Day 1: July 10, 2020 (Data Science & Competitive Programming)
 
-##### Visualising data using Matplotlib and competitive programming on LeetCode
+##### Visualising data using Matplotlib and competitive programming on LeetCode & HackerRank
 
 **Today's Progress**: 
 
@@ -37,11 +37,38 @@ The HackerRank and HackerEarth questions were quite interesting an I was able to
 
 **Thoughts:** 
 
+The LeetCode challenges were quite enjoyable. For the [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) question, I attempted it using a recursive and iterative solution. By doing this exercise, I learnt a lot about the flow of the program using both techniques.
+
 **Link(s) to work:** 
 
 1. [Matplotlib Visualisations and Experiments with different inputs](https://github.com/rishitc/Matplotlib-Mini-Projects)
 
 ---
+
+### Day 2: July 11, 2020 (Java Programming)
+
+##### Worked on learning Java programming on JetBrains Academy
+
+**Today's Progress**: 
+
+- Worked on learning and getting comfortable with Java programming on JetBrains Academy
+- Finished the freeCodeCamp video on [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+- Finished LeetCode July Daily Challenge Question [Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
+
+**Thoughts:** 
+
+I am still learning the ***basics of Java***, but the exercise questions, primarily the **medium** and **hard ones**, are very engaging and take the boredom out of learning the basics. It makes you think more algorithmically in terms of the abstraction of the steps to follow and finally how to put those steps into code. The **code quality checks** are another feature I found very helpful. Writing code that follows important style rules to make the program more readable and visually appealing was very encouraging and satisfying.
+Also, I'm quite ecstatic that I was able to finish the **"Matplotlib Crash Course"** *YouTube video*. It was quite engaging and following along with the instructor while trying out my variations during the process made the learning process engaging and fun. 
+I am eager to try out my new skills on some dataset from *Kaggle*. I have narrowed down on a dataset which I want to try my hands on, but before I can jump into working on that plan, I feel I need to learn about **Pandas** which is another powerful Python library for *Data Science*. Hopefully, I can begin work on that from tomorrow.
+Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Bits"](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/), wherein you take in a number, and reverse its bits and return the result. Tackling the challenge in Python was tricky as I wanted to get the *Most Significant Bit* first from the number's binary representation in memory, for example, the 31st bit of a 32-bit number (if you start your counting from 0), and then **"bitwise or"** it to the answer variable. In Python, however, the size of an integer is *variable* so figuring out the *Most Significant Bit* of the number is confusing. Thankfully the question mentioned that the number is a **32-bit unsigned integer**. So I needed to work with only the first 32-bits of the unsigned integer and ignore the remaining bits (if any). I, however, attempted the question in **C** as I found bit-manipulations easier in **C**, nevertheless I will work on *learning bit manipulations* in Python as well.
+
+**Link(s) to work:** 
+
+1. [Link to my JetBrains Academy Profile](https://hyperskill.org/profile/18500260)
+
+---
+
+
 
 
 
