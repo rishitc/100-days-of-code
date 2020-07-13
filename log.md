@@ -39,6 +39,9 @@ The HackerRank and HackerEarth questions were quite engaging while quite simple 
 
 The LeetCode challenges were quite enjoyable. For the [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) question, I attempted it using a recursive and iterative solution. By doing this exercise, I learnt a lot about the flow of the program using both techniques.
 
+Also, I'm quite ecstatic that I was able to finish the **"Matplotlib Crash Course"** *YouTube video*. It was quite engaging and following along with the instructor while trying out my variations during the process made the learning process engaging and fun. 
+I am eager to try out my new skills on some dataset from *Kaggle*. I have narrowed down on a dataset which I want to try my hands on, but before I can jump into working on that plan, I feel I need to learn about **Pandas** which is another powerful Python library for *Data Science*. Hopefully, I can begin work on that from tomorrow.
+
 **Link(s) to work:** 
 
 1. [Matplotlib Visualisations and Experiments with different inputs](https://github.com/rishitc/Matplotlib-Mini-Projects)
@@ -52,14 +55,12 @@ The LeetCode challenges were quite enjoyable. For the [Flatten a Multilevel Doub
 **Today's Progress**: 
 
 - Worked on learning and getting comfortable with Java programming on JetBrains Academy
-- Finished the freeCodeCamp video on [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - Finished LeetCode July Daily Challenge Question [Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
 
 **Thoughts:** 
 
 I am still learning the ***basics of Java***, but the exercise questions, primarily the **medium** and **hard ones**, are very engaging and take the boredom out of learning the basics. It makes you think more algorithmically in terms of the abstraction of the steps to follow and finally how to put those steps into code. The **code quality checks** are another feature I found very helpful. Writing code that follows important style rules to make the program more readable and visually appealing was very encouraging and satisfying.
-Also, I'm quite ecstatic that I was able to finish the **"Matplotlib Crash Course"** *YouTube video*. It was quite engaging and following along with the instructor while trying out my variations during the process made the learning process engaging and fun. 
-I am eager to try out my new skills on some dataset from *Kaggle*. I have narrowed down on a dataset which I want to try my hands on, but before I can jump into working on that plan, I feel I need to learn about **Pandas** which is another powerful Python library for *Data Science*. Hopefully, I can begin work on that from tomorrow.
+
 Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Bits"](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/), wherein you take in a number, and reverse its bits and return the result. Tackling the challenge in Python was tricky as I wanted to get the *Most Significant Bit* first from the number's binary representation in memory, for example, the 31st bit of a 32-bit number (if you start your counting from 0), and then **"bitwise or"** it to the answer variable. In Python, however, the size of an integer is *variable* so figuring out the *Most Significant Bit* of the number is confusing. Thankfully the question mentioned that the number is a **32-bit unsigned integer**. So I needed to work with only the first 32-bits of the unsigned integer and ignore the remaining bits (if any). I, however, attempted the question in **C** as I found bit-manipulations easier in **C**, nevertheless I will work on *learning bit manipulations* in Python as well.
 
 **Link(s) to work:** 
@@ -68,11 +69,37 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Bit
 
 ---
 
+### Day 3: July 12, 2020 (Data Science & Coursera)
+
+##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+
+**Today's Progress**: 
+
+- Worked on learning and getting comfortable with using the Pandas library
+- Finished LeetCode July Daily Challenge Question [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
+
+**Thoughts:** 
+
+Today I started learning the ***Pandas*** *library*, which is very useful for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time-series data. I have only scratched the surface of the features and functions of the library, but I am amazed by the level of *fine-grained control* one can achieve while using **Pandas**. Hopefully, I can complete learning the rest of the basics before moving on to my *Kaggle* data visualisation project. I have been playing around with this idea in my mind for a while now. Hopefully, I get the chance to execute it soon.
+
+Finally, I worked on the LeetCode July Daily Challenge question on ["Same Tree"](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/). The challenge was quite easy as I was able to complete it quite quickly. I used **Java** to code the solution, I am quite happy that I have reached a level that I can start *programming comfortably* in **Java** now. The time spent on **JetBrains academy** seems to be well spent. I still have a lot to learn but I feel I have got a good start. 
+
+**Link(s) to work:** 
+
+1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
+2. [Video followed to learn Pandas](https://www.youtube.com/watch?v=vmEHCJofslg&feature=youtu.be)
+
+---
 
 
 
+## To Do:
+
+Yet to begin learning from the "Algorithms, Part I" course on Coursera
 
 Yet to begin working on visualising the [Daily Power Generation in India (2017-2020) Dataset on Kaggle](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020?select=file.csv) link to be added soon.
+
+---
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
