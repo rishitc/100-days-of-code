@@ -37,7 +37,7 @@ The HackerRank and HackerEarth questions were quite engaging while quite simple 
 
 **Thoughts:** 
 
-The LeetCode challenges were quite enjoyable. For the [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) question, I attempted it using a recursive and iterative solution. By doing this exercise, I learnt a lot about the flow of the program using both techniques.
+The LeetCode challenges were quite enjoyable. For the ["Flatten a Multilevel Doubly Linked List"](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) question, I attempted it using a recursive and iterative solution. By doing this exercise, I learnt a lot about the flow of the program using both techniques.
 
 Also, I'm quite ecstatic that I was able to finish the **"Matplotlib Crash Course"** *YouTube video*. It was quite engaging and following along with the instructor while trying out my variations during the process made the learning process engaging and fun. 
 I am eager to try out my new skills on some dataset from *Kaggle*. I have narrowed down on a dataset which I want to try my hands on, but before I can jump into working on that plan, I feel I need to learn about **Pandas** which is another powerful Python library for *Data Science*. Hopefully, I can begin work on that from tomorrow.
@@ -104,12 +104,34 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Same Tree"]
 
 I finally finished learning the basics of the Pandas library. I still need to learn more about advanced use cases as well as how to apply what I have learned on a real-world dataset. I feel I should be able to finish figuring out these last two hurdles by tomorrow. I have set a deadline to when I should complete working on my project. Hopefully, I can start working on that by Wednesday, so that I can finish it by Friday.
 
-Finally, I worked on the LeetCode July Daily Challenge question on ["Merge Two Binary Trees"](https://leetcode.com/problems/merge-two-binary-trees/submissions/). I had to spend some time thinking as to how to solve the challenge. I spent some time on pen and paper scribbling my ideas and approaches to figure out the steps to answer the challenge. I also visited a few websites to get some ideas for a possible solution. All this effort helped me solve the problem successfully. I again used **Java** to code the solution. I feel like my comfort level is increasing day by day with **Java**, and that's very encouraging.
+Finally, I worked on the LeetCode question on ["Merge Two Binary Trees"](https://leetcode.com/problems/merge-two-binary-trees/submissions/). I had to spend some time thinking as to how to solve the challenge. I spent some time on pen and paper scribbling my ideas and approaches to figure out the steps to answer the challenge. I also visited a few websites to get some ideas for a possible solution. All this effort helped me solve the problem successfully. I again used **Java** to code the solution. I feel like my comfort level is increasing day by day with **Java**, and that's very encouraging.
 
 **Link(s) to work:** 
 
 1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
 2. [Video followed to learn Pandas](https://www.youtube.com/watch?v=vmEHCJofslg&feature=youtu.be)
+
+---
+
+### Day 4: July 13, 2020 (Data Science, Coursera & Competitive Programming)
+
+##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+
+**Today's Progress**: 
+
+- Finished learning and getting comfortable with using the Pandas library on real world data
+  - Making inferences form the various tests
+- Finished LeetCode Question [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
+
+**Thoughts:** 
+
+...
+
+Finally, I worked on the LeetCode July Daily Challenge question on [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/). I initially used **Java** to code the solution. After completing that, I recoded my solution in **C**, **C++**, **Python** and **C#**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
+
+**Link(s) to work:** 
+
+1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
 
 ---
 
