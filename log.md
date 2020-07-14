@@ -91,7 +91,27 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Same Tree"]
 
 ---
 
+### Day 4: July 13, 2020 (Data Science, Coursera & Competitive Programming)
 
+##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+
+**Today's Progress**: 
+
+- Finished learning and getting comfortable with using the Pandas library
+- Finished LeetCode Question [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/)
+
+**Thoughts:** 
+
+I finally finished learning the basics of the Pandas library. I still need to learn more about advanced use cases as well as how to apply what I have learned on a real-world dataset. I feel I should be able to finish figuring out these last two hurdles by tomorrow. I have set a deadline to when I should complete working on my project. Hopefully, I can start working on that by Wednesday, so that I can finish it by Friday.
+
+Finally, I worked on the LeetCode July Daily Challenge question on ["Merge Two Binary Trees"](https://leetcode.com/problems/merge-two-binary-trees/submissions/). I had to spend some time thinking as to how to solve the challenge. I spent some time on pen and paper scribbling my ideas and approaches to figure out the steps to answer the challenge. I also visited a few websites to get some ideas for a possible solution. All this effort helped me solve the problem successfully. I again used **Java** to code the solution. I feel like my comfort level is increasing day by day with **Java**, and that's very encouraging.
+
+**Link(s) to work:** 
+
+1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
+2. [Video followed to learn Pandas](https://www.youtube.com/watch?v=vmEHCJofslg&feature=youtu.be)
+
+---
 
 ## To Do:
 
