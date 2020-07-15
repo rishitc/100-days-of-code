@@ -69,9 +69,9 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Bit
 
 ---
 
-### Day 3: July 12, 2020 (Data Science & Coursera)
+### Day 3: July 12, 2020 (Data Science & Competitive Programming)
 
-##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+##### Starting learning the Pandas library and competitive programming on LeetCode
 
 **Today's Progress**: 
 
@@ -91,9 +91,9 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Same Tree"]
 
 ---
 
-### Day 4: July 13, 2020 (Data Science, Coursera & Competitive Programming)
+### Day 4: July 13, 2020 (Data Science & Competitive Programming)
 
-##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+##### Finished learning the Pandas library and competitive programming on LeetCode
 
 **Today's Progress**: 
 
@@ -113,27 +113,36 @@ Finally, I worked on the LeetCode question on ["Merge Two Binary Trees"](https:/
 
 ---
 
-### Day 4: July 13, 2020 (Data Science, Coursera & Competitive Programming)
+### Day 5: July 14, 2020 (Data Science & Competitive Programming)
 
-##### Starting learning the Pandas library and started the "Algorithms, Part I" course on Coursera
+##### Reviewing what I have learnt and competitive programming on LeetCode
 
 **Today's Progress**: 
 
-- Finished learning and getting comfortable with using the Pandas library on real world data
-  - Making inferences form the various tests
+- Spent time reviewing what I have learned about the Pandas library
 - Finished LeetCode Question [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
 
 **Thoughts:** 
 
-...
+I spent some time reviewing what I have learned about the Pandas library till now. I feel it's a good idea to take a day and review what I have learnt, before moving to the advanced concepts tomorrow.
 
-Finally, I worked on the LeetCode July Daily Challenge question on [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/). I initially used **Java** to code the solution. After completing that, I recoded my solution in **C**, **C++**, **Python** and **C#**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
+Finally, I worked on the LeetCode July Daily Challenge question on [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/). I initially used **Java** to code the solution. After completing that, I reprogrammed my solution in **C**, **C++**, **Python** and **C#**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
 
 **Link(s) to work:** 
 
 1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
 
 ---
+
+
+
+
+
+
+
+Finished learning and getting comfortable with using the Pandas library on real world data
+
+- Making inferences form the various tests
 
 ## To Do:
 
