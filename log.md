@@ -98,7 +98,7 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Same Tree"]
 **Today's Progress**: 
 
 - Finished learning and getting comfortable with using the Pandas library
-- Finished LeetCode Question [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/)
+- Finished LeetCode July Daily Challenge Question [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/)
 
 **Thoughts:** 
 
@@ -120,7 +120,7 @@ Finally, I worked on the LeetCode question on ["Merge Two Binary Trees"](https:/
 **Today's Progress**: 
 
 - Spent time reviewing what I have learned about the Pandas library
-- Finished LeetCode Question [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
+- Finished LeetCode July Daily Challenge Question [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
 
 **Thoughts:** 
 
@@ -143,7 +143,7 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Angle Betwe
 - Started looking up how to solve real world data science problems with Pandas
 
 - Solved the HackerRank Question [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=profile)
-- Finished LeetCode Question [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
+- Finished LeetCode July Daily Challenge Question [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
 
 **Thoughts:** 
 
@@ -156,6 +156,28 @@ Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Wor
 **Link(s) to work:** 
 
 1. [Video I followed for learning how to solve real world data science problems with Python Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+
+---
+
+### Day 7: July 16, 2020 (Competitive Programming & Mini Project)
+
+##### Competitive programming on LeetCode and Worked on making a Toy Virtual Machine
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Pow\(x, n\) Solution](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)
+- Worked on making a simple Virtual Machine
+
+**Thoughts:** 
+
+I followed a blog by Felix Angell on how to make a simple Virtual Machine in **C**. It was really fun and I will try to continue this project further. I feel that going forward I should write this project in **C++** rather than **C** as I can then take advantage of C++'s Object Oriented Paradigm features to make the code easier to write, maintain and most importantly understand.
+
+Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\) Solution"](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/).
+
+**Link(s) to work:** 
+
+1. [Link to my GitHub repository for the Virtual Machine](https://github.com/rishitc/C-Programming)
+2. [Link to the blog post I followed](https://felixangell.com/blogs/virtual-machine-in-c)
 
 ---
 
