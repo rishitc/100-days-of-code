@@ -126,7 +126,7 @@ Finally, I worked on the LeetCode question on ["Merge Two Binary Trees"](https:/
 
 I spent some time reviewing what I have learned about the Pandas library till now. I feel it's a good idea to take a day and review what I have learnt, before moving to the advanced concepts tomorrow.
 
-Finally, I worked on the LeetCode July Daily Challenge question on [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/). I initially used **Java** to code the solution. After completing that, I reprogrammed my solution in **C**, **C++**, **Python** and **C#**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
+Finally, I worked on the LeetCode July Daily Challenge question on ["Angle Between Hands of a Clock"](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/). I initially used **Java** to code the solution. After completing that, I reprogrammed my solution in **C**, **C++**, **Python** and **C#**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
 
 **Link(s) to work:** 
 
@@ -134,9 +134,30 @@ Finally, I worked on the LeetCode July Daily Challenge question on [Angle Betwee
 
 ---
 
+### Day 6: July 15, 2020 (Data Science & Competitive Programming)
 
+##### Applying what I learnt in Pandas on a real Dataset and competitive programming on LeetCode
 
+**Today's Progress**: 
 
+- Started looking up how to solve real world data science problems with Pandas
+
+- Solved the HackerRank Question [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=profile)
+- Finished LeetCode Question [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
+
+**Thoughts:** 
+
+I spent some time looking up how to solve real world data science problems with Pandas. This is the last tutorial I look at before I start work on my project.
+
+I solved the HackerRank question ["Day of the Programmer"](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=profile) using Python. It took only a few lines to solve but it was worth the experience. The question had a good description of how the transition from the Julian calendar to the Gregorian calendar took place in Russia and how they compensated for the time shift from this transition, and how that effects the problem your trying to solve.
+
+Finally, I worked on the LeetCode July Daily Challenge question on ["Reverse Words in a String"](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/). I initially used **Python** to code the solution. After completing that, I reprogrammed my solution in **Java**, while also using the features of each language to make my task of typing the program simpler. The programs I coded in each of the programming languages were quite efficient, which was a great outcome of the exercise.
+
+**Link(s) to work:** 
+
+1. [Video I followed for learning how to solve real world data science problems with Python Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+
+---
 
 
 
