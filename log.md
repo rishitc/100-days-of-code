@@ -181,11 +181,40 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 
 ---
 
+### Day 8: July 17, 2020 (Competitive Programming & NPTEL MooC)
+
+##### Competitive programming on LeetCode and Started a Course on GPU Architectures and Programming on NPTEL
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)
+- Started auditing a course on GPU Architectures and Programming on NPTEL
+
+**Link(s) to work:** 
+
+1. [NPTEL GPU Architectures and Programming Course](https://nptel.ac.in/courses/106/105/106105220/)
+
+---
+
+### Day 9: July 18, 2020 (Competitive Programming & Project)
+
+##### Competitive programming on LeetCode and Started working on my Personal Project
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)
+- Finished learning and getting comfortable with using the Pandas library on real world data
+  - As well as getting comfortable with making inferences from the various tests
+- Started working on my personal project
+
+**Link(s) to work:**
+
+1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
+2. [Video I followed for learning how to solve real world data science problems with Python Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+
+## 
 
 
-Finished learning and getting comfortable with using the Pandas library on real world data
-
-- Making inferences form the various tests
 
 ## To Do:
 
@@ -195,7 +224,10 @@ Yet to begin working on visualising the [Daily Power Generation in India (2017-2
 
 ---
 
+
+
 ### Day 0: February 30, 2016 (Example 2)
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
