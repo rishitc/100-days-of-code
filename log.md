@@ -212,9 +212,31 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 1. [Link to my Pandas Project Repository](https://github.com/rishitc/Pandas-Mini-Projects)
 2. [Video I followed for learning how to solve real world data science problems with Python Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
 
-## 
+---
 
+### Day 10: July 19, 2020 (Competitive Programming & Project)
 
+##### Competitive programming on LeetCode and continued working on my Personal Project
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Add Binary](https://leetcode.com/problems/add-binary/)
+- Started working on my personal project
+  - Began data cleaning
+
+---
+
+### Day 11: July 20, 2020 (Competitive Programming & Project)
+
+##### Competitive programming on LeetCode and continued working on my Personal Project
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- Started working on my personal project
+  - Continued data cleaning; stared working on filling the `NaN` values in the dataset
+
+---
 
 ## To Do:
 
