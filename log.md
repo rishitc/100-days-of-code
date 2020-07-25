@@ -238,6 +238,38 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 
 ---
 
+### Day 12: July 21, 2020 (Competitive Programming, Self Improvement & Project)
+
+##### Competitive programming on LeetCode and continued working on my Personal Project, also started reading a blog on personal organisation
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+- Spent time investigating the reason for missing values in the dataset
+- Started reading a blog on "*Personal Organisation*"
+
+**Thoughts:**
+
+It's been 12 days since I started and I am ecstatic that I have been able to continue solving 1 question on LeetCode every day. Hopefully, I can convert this into a habit as I feel I am learning quite a lot and can apply it in the problems I come across.
+
+I have read that it takes at least 21 days to form a new habit and I know that I'll be able to do it, as it is something I enjoy doing. Who knew problem-solving would be so fun!
+
+Also, I spent some time investigating the cause for the missing data as I felt that there might be a good reason for its absence. The reason for the missing data will surely help me in understanding the best way to fill the cells of missing data (or delete those rows if it makes sense).
+
+I also started reading a blog on "*Personal Organisation*" which I found on freeCodeCamp. It is quite lengthy, I have finished reading about a quarter of it, and I'm gripped by the author Lucas Santos' insights, advice and techniques. I'll try to finish reading the blog in the next few days.
+
+**Reference Link(s):**
+
+1. [Blog on "*Personal Organisation*"](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
+
+---
+
+
+
+
+
+
+
 ## To Do:
 
 Yet to begin learning from the "Algorithms, Part I" course on Coursera
