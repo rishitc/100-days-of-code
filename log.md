@@ -282,6 +282,22 @@ I also started reading a blog on "*Personal Organisation*" which I found on free
 
 ---
 
+### Day 14: July 23, 2020 (Competitive Programming, Self Improvement & Project)
+
+##### Competitive programming on LeetCode and continued working on my Personal Project and finished reading a blog on personal organisation
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
+- Finished reading the blog on "*Personal Organisation*"
+- Finished my analysis of the missing data and started filling in the missing values
+
+**Reference Link(s):**
+
+1. [Blog on "*Personal Organisation*"](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
+
+---
+
 
 
 ## To Do:
