@@ -216,7 +216,7 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 
 ### Day 10: July 19, 2020 (Competitive Programming & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project
+##### Competitive programming on LeetCode and working on my Personal Project
 
 **Today's Progress**: 
 
@@ -228,7 +228,7 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 
 ### Day 11: July 20, 2020 (Competitive Programming & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project
+##### Competitive programming on LeetCode and working on my Personal Project
 
 **Today's Progress**: 
 
@@ -240,7 +240,7 @@ Finally, I worked on the LeetCode July Daily Challenge Question on ["Pow\(x, n\)
 
 ### Day 12: July 21, 2020 (Competitive Programming, Self Improvement & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project, also started reading a blog on personal organisation
+##### Competitive programming on LeetCode, working on my Personal Project and started reading a blog on "*Personal Organisation*"
 
 **Today's Progress**: 
 
@@ -266,7 +266,7 @@ I also started reading a blog on "*Personal Organisation*" which I found on free
 
 ### Day 13: July 22, 2020 (Competitive Programming, Self Improvement & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project and reading a blog on personal organisation
+##### Competitive programming on LeetCode, working on my Personal Project and reading a blog on "*Personal Organisation*"
 
 **Today's Progress**: 
 
@@ -284,7 +284,7 @@ I also started reading a blog on "*Personal Organisation*" which I found on free
 
 ### Day 14: July 23, 2020 (Competitive Programming, Self Improvement & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project and finished reading a blog on personal organisation
+##### Competitive programming on LeetCode, working on my Personal Project and finished reading a blog on "*Personal Organisation*"
 
 **Today's Progress**: 
 
@@ -300,18 +300,39 @@ I also started reading a blog on "*Personal Organisation*" which I found on free
 
 ### Day 15: July 24, 2020 (Competitive Programming, Self Improvement & Project)
 
-##### Competitive programming on LeetCode and continued working on my Personal Project and read up a few more blogs on personal organisation
+##### Competitive programming on LeetCode, working on my Personal Project and reading up blogs on personal organisation
 
 **Today's Progress**: 
 
 - Finished LeetCode July Daily Challenge Question [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
 - Read up a few other blogs on the subject of "*Personal Organisation*"
 - Finished answering the first Data Science Question on the Dataset
+- Started learning Gradle
+
+**Thoughts:**
+
+
 
 **Reference Link(s):**
 
 1. [Why You Should Never Leave Email in Your Inbox](https://www.simpletivity.com/blog/why-you-should-never-leave-email-in-your-inbox)
 2. [How To Get Organized—Finally!](https://www.psychologytoday.com/us/articles/200603/how-get-organized-finally)
+
+---
+
+### Day 16: July 25, 2020 (Competitive Programming, Self Improvement & Project)
+
+##### Competitive programming on LeetCode and continued working on my Personal Project and read up a few more blogs on personal organisation
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)
+- Read up a few other blogs on the subject of "*Personal Organisation*"
+- Finished answering the second Data Science Question on the Dataset
+
+**Reference Link(s):**
+
+1. [How Long Does it Actually Take to Form a New Habit? (Backed by Science)](https://jamesclear.com/new-habit)
 
 ---
 
