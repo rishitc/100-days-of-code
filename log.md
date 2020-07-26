@@ -298,6 +298,23 @@ I also started reading a blog on "*Personal Organisation*" which I found on free
 
 ---
 
+### Day 15: July 24, 2020 (Competitive Programming, Self Improvement & Project)
+
+##### Competitive programming on LeetCode and continued working on my Personal Project and read up a few more blogs on personal organisation
+
+**Today's Progress**: 
+
+- Finished LeetCode July Daily Challenge Question [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
+- Read up a few other blogs on the subject of "*Personal Organisation*"
+- Finished answering the first Data Science Question on the Dataset
+
+**Reference Link(s):**
+
+1. [Why You Should Never Leave Email in Your Inbox](https://www.simpletivity.com/blog/why-you-should-never-leave-email-in-your-inbox)
+2. [How To Get Organized—Finally!](https://www.psychologytoday.com/us/articles/200603/how-get-organized-finally)
+
+---
+
 
 
 ## To Do:
